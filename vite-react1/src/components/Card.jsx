@@ -1,5 +1,4 @@
-// import React from 'react'
-// eslint-disable-next-line react/prop-types
+
 function Card({username= "shar", post=" software engineer"}){  //this will only work when you enable the javascript line inside the div and use everything defined there
     console.log(username);
     

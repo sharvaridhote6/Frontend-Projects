@@ -1,12 +1,9 @@
-// eslint-disable-next-line no-unused-vars
 import { React } from 'react'
 import { createRoot } from 'react-dom/client'
-// import './index.css'
-// eslint-disable-next-line no-unused-vars
 import App from './App.jsx'
 
 
-// eslint-disable-next-line no-unused-vars
+
 const reactElement={
     type: "a",
     props: {
@@ -15,7 +12,7 @@ const reactElement={
     },
     children:"click me to visit google"
 }
-// eslint-disable-next-line no-unused-vars
+
 function myApp(){
     return(
         <div>
